@@ -64,9 +64,9 @@ Send unsupported files or text: The bot responds with an error message.
 
 # Telegram Bot Tests
 
-## 1.tatatat
-    dwaopdkwopakkdpokawop
+## 1. Device Name
+To use the test, enter your device name into the capabilities dictionary
 
 
-## 2.tatatata
-    dkpwoakdpoawkdpowa
+## 2.Test Files
+In some tests the automator using files from the device itself by giving the exact XPATH. To run the test you give the XPATH that follows to your device files.
