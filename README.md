@@ -59,3 +59,14 @@ Example
 /start: Responds with a welcome message.
 Send an image: The bot responds with the MD5 hash of the image.
 Send unsupported files or text: The bot responds with an error message.
+
+
+
+# Telegram Bot Tests
+
+## 1.tatatat
+    dwaopdkwopakkdpokawop
+
+
+## 2.tatatata
+    dkpwoakdpoawkdpowa
